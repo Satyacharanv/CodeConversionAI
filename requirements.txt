@@ -1,0 +1,17 @@
+openai
+langchain
+langchain-openai
+langchain-mcp-adapters
+fastapi
+uvicorn
+langgraph
+google-generativeai
+pandas
+langchain-community
+psycopg2
+networkx
+
+# New dependencies for RAG, ChromaDB, and multi-agent
+chromadb
+langgraph-supervisor
+pydantic
